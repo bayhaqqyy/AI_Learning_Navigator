@@ -1,4 +1,4 @@
-# AI Learning Navigator - C++17
+# AI Learning Navigator
 
 AI Learning Navigator adalah aplikasi console interaktif bertema Artificial Intelligence. Aplikasi membantu pengguna menentukan jalur belajar AI, mencari resource, dan mengurutkan rekomendasi sambil mendemonstrasikan struktur data dan algoritma.
 
